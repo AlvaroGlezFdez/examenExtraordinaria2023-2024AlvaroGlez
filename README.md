@@ -1,0 +1,3 @@
+# examenExtraordinaria2023-2024AlvaroGlez
+
+Este ejercicio consiste en un gestor de Tareas con un menú implementado en el que el usuario tiene la opcion de agregar una tarea, elminar una existente o simplemente mostrar las tareas contenidas. Para ello lo primero se creó una clase Tarea que consistirá en todas las tareas que se creen con su titulo y su opcional descripción. A continuacion se crea una segunda claes Gestor de Tareas que herda de la clase Tarea y contiene los métodos anteriormente descritos para todas las instancias de Tarea o simplemente, para todas las tareas. Posteriormente, para gestionarlo todo, se crea una funcion main, que en este caso, es la que mantiene infinatemente al ejecucion del menu a través de un while True.
