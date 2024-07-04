@@ -1,0 +1,4 @@
+# examenExtraordinaria2023-2024AlvaroGlez
+
+
+Para este ejercicio, se pide simular una carrera de varios coches, pertenecientes a una clase inicial llamada Coches, en la que toda instancia tiene atributos de nombre, velocidad maxima y aceleracion. Además esta clase cuenta con un metodo de clase que "permite" moverse a los coches, de tal forma que se actualiza la velocidad y la posicion en cada intervalo. A continuacion, todos estos coches forman parte de una carrera, la clase carrera que permite crear coches (instancias de la clase coche) e inciar la carerra además de determinar al ganador de la carrera en funcion de su posicion. Por ultimo un script llamado main donde se importan las clases del programa y permite a este ultimo inicializarse.
